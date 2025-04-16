@@ -7,8 +7,13 @@ app = Flask(__name__)
 
 CORS(app, origins="*")  
 
-model = joblib.load(r"C:\Customer Projects\plant_fertilizer_detection\model\fertilizer_decision_tree_model.pkl")
-label_encoders = joblib.load(r"C:\Customer Projects\plant_fertilizer_detection\model\label_encoders.pkl")
+model = joblib.load(r"C:\Customer Projects\plant_fertilizer_detection\coding\model\fertilizer_decision_tree_model.pkl")
+label_encoders = joblib.load(r"C:\Customer Projects\plant_fertilizer_detection\coding\model\label_encoders.pkl")
+
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok'}), 200
+
 
 @app.route('/predict', methods=['POST'])
 def predict():

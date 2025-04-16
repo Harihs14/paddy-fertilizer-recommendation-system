@@ -113,6 +113,21 @@ const App = () => {
   const [error, setError] = useState(null);
   const [genAiError, setGenAiError] = useState(null);
   const [genAiResult, setGenAiResult] = useState('');
+  const [serverOnline, setServerOnline] = useState(null);
+
+  useEffect(() => {
+    fetch('http://localhost:5000/health') // Use your Render URL in production
+      .then(res => {
+        if (res.ok) {
+          setServerOnline(true);
+        } else {
+          setServerOnline(false);
+        }
+      })
+      .catch(() => {
+        setServerOnline(false);
+      });
+  }, []);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -361,6 +376,10 @@ const App = () => {
             <p className="mt-4 text-sm text-gray-600 text-center">Based on your input parameters, this is the optimal fertilizer for your Paddy.</p>
           </div>
         )}
+      </div>
+
+      <div className={`fixed bottom-4 right-4 p-2 text-sm font-semibold w-fit rounded ${serverOnline === null ? 'bg-gray-400' : serverOnline ? 'bg-green-500 text-white' : 'bg-red-500 text-white'}`}>
+        Server : {serverOnline === null ? 'Checking...' : serverOnline ? 'Online' : 'Offline'}
       </div>
 
       <footer className="mt-12 text-center text-gray-600 text-sm">
