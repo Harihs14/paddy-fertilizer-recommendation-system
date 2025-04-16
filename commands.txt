@@ -1,0 +1,2 @@
+pip install flask joblib pandas scikit-learn flask-cors
+python app.py

@@ -1,0 +1,58 @@
+{
+  "Plant Name": [
+    "ADT 39",
+    "BPT 5204",
+    "CR 1009",
+    "Chitti Mutyalu",
+    "HMT",
+    "IR64",
+    "Jaya",
+    "Jeera Samba",
+    "Kagga",
+    "Kavuni",
+    "MTU1010",
+    "MTU7029",
+    "Ponmani",
+    "Ponni",
+    "Pusa Basmati 1121",
+    "Pusa Basmati 1509",
+    "Rajendra Bhagwati",
+    "Rasi",
+    "Sambha Mahsuri",
+    "Swarna"
+  ],
+  "Soil Type": [
+    "Alluvial",
+    "Bark Based",
+    "Clay",
+    "Clay Loam",
+    "Compost Rich",
+    "Loamy",
+    "Red Loam",
+    "Red Loamy",
+    "Sandy",
+    "Sandy Loam",
+    "Silty",
+    "Silty Loam",
+    "Well Drained",
+    "Well-drained Loamy"
+  ],
+  "Climate": [
+    "Arid",
+    "Coastal",
+    "Humid",
+    "Mediterranean",
+    "Subtropical",
+    "Temperate",
+    "Tropical"
+  ],
+  "Irrigation Type": [
+    "Drip",
+    "Flood",
+    "Rainfed",
+    "Sprinkler",
+    "Submerged",
+    "Surface",
+    "Tidal"
+  ]
+}

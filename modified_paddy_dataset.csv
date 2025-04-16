@@ -1,0 +1,511 @@
+Plant Name,Soil Type,pH Level,Climate,Irrigation Type,Organic Matter %,Fertilizer Type
+IR64,Loamy,6.5,Tropical,Drip,2.5,NPK 20-20-20
+Swarna,Sandy,5.8,Temperate,Sprinkler,1.8,Urea
+BPT 5204,Sandy Loam,6.0,Temperate,Drip,2.2,Compost
+MTU1010,Loamy,6.2,Tropical,Flood,2.0,DAP
+MTU7029,Sandy Loam,6.1,Arid,Drip,1.5,NPK 12-32-16
+Pusa Basmati 1121,Silty,6.8,Temperate,Sprinkler,3.0,Compost
+Pusa Basmati 1509,Loamy,6.3,Humid,Drip,2.1,NPK 15-15-15
+Rajendra Bhagwati,Sandy,6.5,Tropical,Drip,2.0,Urea
+Sambha Mahsuri,Clay,6.0,Temperate,Flood,2.7,Compost
+Jaya,Loamy,6.4,Tropical,Drip,1.9,NPK 10-26-26
+Rasi,Loamy,6.5,Temperate,Sprinkler,2.4,DAP
+ADT 39,Silty,6.3,Temperate,Drip,2.5,Compost
+Ponmani,Sandy,5.9,Temperate,Sprinkler,2.0,Urea
+CR 1009,Loamy,6.4,Tropical,Drip,1.8,NPK 17-17-17
+Ponni,Clay Loam,6.6,Tropical,Flood,2.2,Compost
+Kavuni,Loamy,6.3,Tropical,Drip,2.3,NPK 20-20-20
+Chitti Mutyalu,Sandy Loam,6.2,Humid,Flood,2.1,Urea
+Jeera Samba,Loamy,6.5,Temperate,Sprinkler,2.0,DAP
+Kagga,Sandy,6.0,Arid,Drip,1.7,NPK 12-32-16
+HMT,Silty,6.8,Temperate,Sprinkler,2.9,Compost
+IR64,Sandy Loam,6.1,Temperate,Drip,2.2,Urea
+Swarna,Loamy,6.5,Temperate,Sprinkler,2.3,NPK 15-15-15
+BPT 5204,Loamy,6.0,Tropical,Drip,2.4,Compost
+MTU1010,Compost Rich,6.5,Humid,None,4.0,Organic Mix
+MTU7029,Clay,5.9,Tropical,Flood,1.9,Urea
+Pusa Basmati 1121,Clay Loam,6.1,Humid,Flood,2.2,DAP
+Pusa Basmati 1509,Loamy,6.4,Tropical,Drip,2.1,NPK 20-20-20
+Rajendra Bhagwati,Silty,6.7,Temperate,Sprinkler,3.1,Compost
+Sambha Mahsuri,Sandy Loam,6.0,Temperate,Drip,2.3,Urea
+Jaya,Loamy,6.3,Temperate,Sprinkler,2.5,Compost
+Rasi,Loamy,6.5,Tropical,Drip,2.5,NPK 10-26-26
+ADT 39,Alluvial,6.8,Humid,Flood,3.0,NPK 19-19-19
+Ponmani,Loamy,6.2,Temperate,Drip,2.0,DAP
+CR 1009,Sandy Loam,6.4,Tropical,Drip,2.3,Urea
+Ponni,Sandy,5.5,Tropical,Drip,2.1,NPK 12-32-16
+Kavuni,Loamy,6.7,Tropical,Drip,2.5,NPK 15-15-15
+Chitti Mutyalu,Sandy Loam,6.0,Temperate,Drip,2.4,NPK 20-20-20
+Jeera Samba,Loamy,6.1,Tropical,Drip,2.0,Urea
+Kagga,Clay Loam,6.3,Temperate,Drip,2.2,DAP
+HMT,Sandy,6.5,Arid,Drip,1.8,NPK 17-17-17
+IR64,Sandy Loam,6.4,Tropical,Drip,2.1,NPK 20-20-20
+Swarna,Sandy Loam,6.3,Tropical,Drip,2.0,Urea
+BPT 5204,Loamy,6.2,Humid,Drip,2.4,NPK 10-26-26
+MTU1010,Red Loamy,6.5,Tropical,Drip,2.3,Compost
+MTU7029,Sandy Loam,6.1,Tropical,Drip,2.0,NPK 12-32-16
+Pusa Basmati 1121,Loamy,6.3,Tropical,Drip,2.4,Compost
+Pusa Basmati 1509,Well Drained,6.5,Tropical,Drip,2.8,NPK 15-15-15
+Rajendra Bhagwati,Sandy Loam,6.2,Arid,Drip,2.0,Urea
+Sambha Mahsuri,Clay Loam,6.3,Temperate,Drip,2.2,DAP
+Jaya,Loamy,6.1,Temperate,Drip,2.3,NPK 20-20-20
+Rasi,Sandy Loam,6.0,Temperate,Drip,2.1,Compost
+ADT 39,Loamy,6.2,Temperate,Drip,2.4,DAP
+Ponmani,Sandy Loam,6.3,Temperate,Drip,2.5,Compost
+CR 1009,Loamy,6.5,Temperate,Drip,2.6,NPK 10-26-26
+Ponni,Loamy,6.1,Tropical,Drip,2.0,Urea
+Kavuni,Red Loamy,6.4,Tropical,Drip,2.3,NPK 17-17-17
+Chitti Mutyalu,Loamy,6.3,Tropical,Drip,2.4,Compost
+Jeera Samba,Clay Loam,6.5,Tropical,Drip,2.2,NPK 20-20-20
+Kagga,Sandy,6.8,Arid,Drip,1.7,Urea
+HMT,Sandy Loam,6.2,Arid,Drip,2.0,DAP
+IR64,Well Drained,6.5,Tropical,Rainfed,2.0,NPK 20-20-20
+Swarna,Sandy Loam,7.0,Arid,None,1.5,Organic Mix
+BPT 5204,Loamy,6.8,Tropical,None,2.2,Compost
+MTU1010,Loamy,6.7,Tropical,None,2.3,Compost
+MTU7029,Red Loam,6.5,Tropical,Drip,2.4,NPK 12-32-16
+Pusa Basmati 1121,Sandy,6.3,Tropical,Rainfed,2.0,Urea
+Pusa Basmati 1509,Loamy,6.4,Tropical,Rainfed,2.5,DAP
+Rajendra Bhagwati,Clay,6.0,Tropical,Rainfed,2.3,Compost
+Sambha Mahsuri,Loamy,6.6,Temperate,Drip,2.1,NPK 17-17-17
+Jaya,Clay Loam,6.3,Tropical,Rainfed,2.2,Organic Mix
+Rasi,Loamy,6.5,Tropical,Drip,2.4,DAP
+ADT 39,Sandy Loam,6.7,Tropical,Rainfed,2.0,Urea
+Ponmani,Loamy,6.4,Tropical,Rainfed,2.1,Compost
+CR 1009,Red Loam,6.2,Tropical,Rainfed,2.3,NPK 15-15-15
+Ponni,Sandy,6.5,Tropical,Rainfed,2.0,Urea
+Kavuni,Loamy,6.3,Humid,Rainfed,2.2,Compost
+Chitti Mutyalu,Sandy Loam,6.4,Tropical,Rainfed,2.0,Organic Mix
+Jeera Samba,Loamy,6.5,Temperate,Drip,2.3,NPK 10-26-26
+Kagga,Well Drained,6.1,Tropical,Drip,2.5,NPK 20-20-20
+HMT,Sandy Loam,6.8,Tropical,Drip,2.4,NPK 19-19-19
+IR64,Loamy,6.2,Tropical,Rainfed,2.1,DAP
+Swarna,Loamy,6.6,Tropical,Rainfed,2.3,Compost
+BPT 5204,Sandy Loam,6.4,Tropical,Drip,2.0,NPK 12-32-16
+MTU1010,Clay Loam,6.5,Tropical,Rainfed,2.2,NPK 15-15-15
+MTU7029,Loamy,6.3,Tropical,Drip,2.5,Compost
+Pusa Basmati 1121,Red Loamy,6.7,Tropical,Drip,2.1,Urea
+Pusa Basmati 1509,Sandy Loam,6.4,Tropical,Drip,2.3,DAP
+Rajendra Bhagwati,Sandy,7.2,Arid,Rainfed,1.8,Organic Mix
+Sambha Mahsuri,Loamy,6.5,Tropical,Drip,2.4,NPK 10-26-26
+Jaya,Loamy,6.3,Tropical,Drip,2.6,NPK 20-20-20
+Rasi,Loamy,6.5,Temperate,Drip,2.8,NPK 10-26-26
+ADT 39,Sandy Loam,6.2,Tropical,Drip,2.4,NPK 15-15-15
+Ponmani,Loamy,6.5,Tropical,Drip,2.5,Compost
+CR 1009,Clay Loam,6.3,Tropical,Drip,2.6,Urea
+Ponni,Well Drained,6.8,Temperate,Drip,2.7,DAP
+Kavuni,Loamy,6.4,Temperate,Drip,2.5,NPK 20-20-20
+Chitti Mutyalu,Loamy,6.2,Temperate,Drip,2.3,Compost
+Jeera Samba,Sandy Loam,6.0,Arid,Flood,2.0,Urea
+Kagga,Sandy Loam,6.5,Tropical,Drip,2.2,NPK 17-17-17
+HMT,Loamy,6.3,Temperate,Sprinkler,2.5,NPK 12-32-16
+IR64,Sandy,6.5,Temperate,Drip,2.1,Compost
+Swarna,Sandy,6.7,Tropical,None,1.8,Organic Mix
+BPT 5204,Bark Based,5.5,Tropical,Drip,3.0,Special Orchid Mix
+MTU1010,Loamy,6.2,Tropical,Drip,2.4,NPK 15-15-15
+MTU7029,Sandy Loam,6.1,Tropical,Drip,2.3,DAP
+Pusa Basmati 1121,Loamy,6.4,Tropical,Drip,2.6,Compost
+Pusa Basmati 1509,Sandy Loam,6.3,Temperate,Drip,2.2,NPK 20-20-20
+Rajendra Bhagwati,Loamy,6.5,Temperate,Drip,2.5,Urea
+Sambha Mahsuri,Sandy,6.0,Tropical,Drip,2.0,Compost
+Jaya,Loamy,6.3,Tropical,Drip,2.4,NPK 10-26-26
+Rasi,Loamy,6.6,Temperate,Drip,2.7,DAP
+ADT 39,Sandy Loam,6.2,Tropical,Drip,2.1,NPK 15-15-15
+Ponmani,Loamy,6.3,Temperate,Drip,2.3,Compost
+CR 1009,Loamy,6.4,Temperate,Drip,2.6,NPK 12-32-16
+Ponni,Sandy Loam,6.1,Temperate,Drip,2.2,Urea
+Kavuni,Well Drained,6.5,Tropical,Drip,2.8,Compost
+Chitti Mutyalu,Sandy Loam,6.3,Tropical,Drip,2.0,NPK 20-20-20
+Jeera Samba,Loamy,6.2,Temperate,Drip,2.4,NPK 10-26-26
+Kagga,Sandy,6.5,Tropical,Drip,2.1,Urea
+HMT,Sandy,6.7,Tropical,None,1.9,Organic Mix
+IR64,Loamy,6.5,Tropical,Drip,2.4,NPK 10-10-10
+Swarna,Sandy Loam,6.3,Temperate,Drip,2.6,Compost
+BPT 5204,Loamy,6.2,Temperate,Drip,2.2,Urea
+MTU1010,Loamy,6.3,Temperate,Drip,2.5,NPK 15-15-15
+MTU7029,Well Drained,6.5,Temperate,Drip,2.1,Organic Mix
+Pusa Basmati 1121,Sandy,6.7,Temperate,Drip,2.0,Compost
+Pusa Basmati 1509,Sandy Loam,6.6,Temperate,Drip,1.9,NPK 12-32-16
+Rajendra Bhagwati,Loamy,6.5,Tropical,Drip,2.4,DAP
+Sambha Mahsuri,Sandy Loam,6.1,Temperate,Drip,2.3,Urea
+Jaya,Loamy,6.2,Temperate,Drip,2.5,NPK 20-20-20
+Rasi,Loamy,6.3,Temperate,Drip,2.2,Compost
+ADT 39,Clay Loam,6.4,Tropical,Drip,2.6,NPK 10-26-26
+Ponmani,Well Drained,6.5,Temperate,Drip,2.0,Organic Mix
+CR 1009,Sandy Loam,6.5,Tropical,Drip,2.4,NPK 19-19-19
+Ponni,Red Loam,6.6,Tropical,Drip,2.3,Urea
+Kavuni,Sandy,7.0,Arid,None,1.8,Compost
+Chitti Mutyalu,Loamy,6.4,Tropical,Drip,2.6,NPK 15-15-15
+Jeera Samba,Well Drained,6.2,Temperate,Drip,2.1,NPK 12-32-16
+Kagga,Silty,6.3,Tropical,Drip,2.5,Compost
+HMT,Sandy Loam,6.8,Arid,Drip,2.0,Urea
+IR64,Silty,6.5,Tropical,Drip,2.4,NPK 10-10-10
+Swarna,Loamy,6.2,Tropical,Drip,2.2,DAP
+BPT 5204,Sandy Loam,6.3,Tropical,Drip,2.1,Compost
+MTU1010,Sandy Loam,6.3,Temperate,Drip,2.5,Urea
+MTU7029,Sandy Loam,6.0,Temperate,Drip,2.3,NPK 20-20-20
+Pusa Basmati 1121,Well Drained,6.5,Temperate,Drip,2.1,Organic Mix
+Pusa Basmati 1509,Loamy,6.4,Temperate,Drip,2.2,NPK 15-15-15
+Rajendra Bhagwati,Silty Loam,6.3,Temperate,Drip,2.6,Compost
+Sambha Mahsuri,Sandy,6.6,Temperate,Drip,2.0,Urea
+Jaya,Well Drained,6.7,Temperate,Drip,2.1,DAP
+Rasi,Loamy,6.5,Tropical,Drip,2.5,NPK 20-20-20
+ADT 39,Sandy Loam,6.3,Tropical,Drip,2.4,Compost
+Ponmani,Well Drained,6.4,Tropical,Drip,2.3,NPK 10-10-10
+CR 1009,Loamy,6.2,Tropical,Drip,2.5,NPK 15-15-15
+Ponni,Sandy Loam,6.5,Tropical,Drip,2.6,Urea
+Kavuni,Loamy,6.3,Tropical,Drip,2.4,DAP
+Chitti Mutyalu,Well Drained,6.6,Tropical,Drip,2.3,NPK 12-32-16
+Jeera Samba,Sandy Loam,6.4,Tropical,Drip,2.5,Compost
+Kagga,Loamy,6.5,Tropical,Drip,2.2,NPK 17-17-17
+HMT,Well Drained,6.3,Tropical,Drip,2.1,NPK 20-20-20
+IR64,Sandy,6.6,Tropical,Drip,2.4,Urea
+Swarna,Loamy,6.5,Tropical,Drip,2.3,NPK 10-26-26
+BPT 5204,Sandy Loam,6.4,Tropical,Drip,2.5,Compost
+MTU1010,Loamy,6.2,Tropical,Drip,2.6,NPK 15-15-15
+MTU7029,Well Drained,6.3,Tropical,Drip,2.3,NPK 12-12-17
+Pusa Basmati 1121,Sandy,6.4,Tropical,Drip,2.2,DAP
+Pusa Basmati 1509,Loamy,6.5,Tropical,Drip,2.4,Urea
+Rajendra Bhagwati,Sandy Loam,6.3,Tropical,Drip,2.1,NPK 20-20-20
+Sambha Mahsuri,Loamy,6.4,Tropical,Drip,2.3,NPK 10-10-10
+Jaya,Well Drained,6.6,Tropical,Drip,2.2,Compost
+Rasi,Sandy,6.3,Tropical,Drip,2.5,NPK 17-17-17
+ADT 39,Loamy,6.4,Tropical,Drip,2.4,DAP
+Ponmani,Sandy Loam,6.2,Tropical,Drip,2.6,Urea
+CR 1009,Well Drained,6.5,Tropical,Drip,2.3,NPK 15-15-15
+Ponni,Loamy,6.3,Tropical,Drip,2.2,Compost
+Kavuni,Sandy,6.6,Tropical,Drip,2.5,NPK 20-20-20
+Chitti Mutyalu,Well Drained,6.5,Tropical,Drip,2.3,Compost
+Jeera Samba,Loamy,6.0,Tropical,Drip,2.4,NPK 15-15-15
+Kagga,Well Drained,6.3,Temperate,Drip,2.2,NPK 10-26-26
+HMT,Loamy,6.1,Tropical,Drip,2.3,Organic Mix
+IR64,Well Drained,7.0,Arid,None,2.0,Compost
+Swarna,Well Drained,6.5,Tropical,Drip,2.4,NPK 20-20-20
+BPT 5204,Loamy,6.3,Tropical,Drip,2.5,NPK 10-10-10
+MTU1010,Well Drained,6.0,Tropical,Drip,2.3,Compost
+MTU7029,Loamy,6.5,Tropical,Drip,2.2,NPK 12-32-16
+Pusa Basmati 1121,Well Drained,6.3,Tropical,Drip,2.6,NPK 15-15-15
+Pusa Basmati 1509,Loamy,6.7,Tropical,Drip,2.4,Compost
+Rajendra Bhagwati,Well Drained,6.2,Tropical,Drip,2.3,NPK 10-26-26
+Sambha Mahsuri,Well Drained,6.5,Tropical,None,2.1,Compost
+Jaya,Loamy,6.0,Temperate,Drip,2.4,NPK 20-20-20
+Rasi,Loamy,6.4,Tropical,Drip,2.5,Compost
+ADT 39,Well Drained,6.2,Tropical,Drip,2.3,NPK 10-10-10
+Ponmani,Silty,6.3,Tropical,Drip,2.4,NPK 12-32-16
+CR 1009,Loamy,6.5,Tropical,Drip,2.5,Compost
+Ponni,Well Drained,6.5,Tropical,Drip,2.3,NPK 10-26-26
+Kavuni,Bark Based,5.5,Tropical,Drip,2.7,Special Orchid Mix
+Chitti Mutyalu,Well Drained,6.2,Tropical,Drip,2.4,NPK 15-15-15
+Jeera Samba,Well Drained,6.5,Arid,None,2.1,Compost
+Kagga,Loamy,6.3,Tropical,Drip,2.5,NPK 17-17-17
+HMT,Loamy,6.1,Tropical,Drip,2.3,Organic Mix
+IR64,Well Drained,6.4,Tropical,Drip,2.2,NPK 20-20-20
+Swarna,Well Drained,6.8,Arid,None,2.0,Compost
+BPT 5204,Well Drained,5.5,Tropical,Drip,2.6,Special Orchid Mix
+MTU1010,Sandy Loam,6.5,Tropical,Drip,3.0,NPK 20-20-20
+MTU7029,Loamy,6.7,Temperate,Drip,3.2,NPK 15-15-15
+Pusa Basmati 1121,Loamy,6.2,Temperate,Drip,3.5,NPK 10-26-26
+Pusa Basmati 1509,Loamy,6.4,Temperate,Drip,3.1,NPK 12-32-16
+Rajendra Bhagwati,Sandy Loam,6.8,Tropical,Drip,3.3,NPK 20-20-20
+Sambha Mahsuri,Loamy,6.5,Tropical,Drip,3.0,Compost
+Jaya,Sandy,6.4,Subtropical,Drip,2.8,NPK 10-10-10
+Rasi,Clay,6.2,Tropical,Drip,3.0,NPK 15-15-15
+ADT 39,Loamy,6.5,Temperate,Drip,3.2,NPK 12-32-16
+Ponmani,Sandy Loam,6.4,Tropical,Drip,3.1,NPK 10-26-26
+CR 1009,Loamy,6.5,Temperate,Drip,3.3,Compost
+Ponni,Sandy Loam,6.2,Temperate,Drip,3.0,NPK 20-20-20
+Kavuni,Loamy,6.3,Temperate,Drip,3.2,NPK 15-15-15
+Chitti Mutyalu,Sandy,6.4,Subtropical,Drip,2.8,NPK 12-32-16
+Jeera Samba,Loamy,6.6,Temperate,Drip,3.4,NPK 10-26-26
+Kagga,Sandy Loam,6.5,Tropical,Drip,3.0,NPK 20-20-20
+HMT,Sandy Loam,6.3,Tropical,Drip,3.0,Compost
+IR64,Loamy,6.6,Tropical,Drip,3.1,NPK 15-15-15
+Swarna,Loamy,6.7,Coastal,Tidal,3.2,NPK 10-10-10
+BPT 5204,Loamy,6.5,Tropical,Drip,3.2,NPK 12-32-16
+MTU1010,Sandy Loam,6.4,Arid,Drip,3.0,Compost
+MTU7029,Sandy Loam,6.5,Tropical,Drip,3.1,NPK 20-20-20
+Pusa Basmati 1121,Loamy,6.6,Temperate,Drip,3.3,NPK 15-15-15
+Pusa Basmati 1509,Well Drained,6.7,Tropical,Drip,3.2,NPK 10-26-26
+Rajendra Bhagwati,Loamy,6.5,Temperate,Drip,3.0,NPK 12-32-16
+Sambha Mahsuri,Loamy,6.3,Temperate,Drip,3.1,Compost
+Jaya,Loamy,6.4,Tropical,Drip,3.0,NPK 20-20-20
+Rasi,Loamy,6.5,Tropical,Drip,2.5,Compost
+ADT 39,Sandy Loam,7.0,Arid,Drip,2.2,NPK 10-10-10
+Ponmani,Sandy,6.8,Arid,None,2.0,Compost
+CR 1009,Well Drained,6.5,Tropical,None,2.4,NPK 12-32-16
+Ponni,Clay Loam,6.0,Tropical,Drip,3.0,Organic Mix
+Kavuni,Loamy,6.5,Tropical,Drip,2.6,NPK 15-15-15
+Chitti Mutyalu,Loamy,6.4,Tropical,Drip,2.8,NPK 10-10-10
+Jeera Samba,Loamy,6.3,Temperate,Drip,2.7,NPK 12-32-16
+Kagga,Loamy,6.3,Temperate,Drip,2.7,Compost
+HMT,Sandy Loam,6.5,Tropical,Drip,2.5,NPK 10-26-26
+IR64,Loamy,6.4,Tropical,None,2.3,NPK 20-20-20
+Swarna,Sandy Loam,6.6,Tropical,Drip,2.4,NPK 15-15-15
+BPT 5204,Well Drained,6.7,Tropical,None,2.5,Compost
+MTU1010,Loamy,6.4,Tropical,Drip,2.6,NPK 10-26-26
+MTU7029,Loamy,6.3,Tropical,Drip,2.7,NPK 12-32-16
+Pusa Basmati 1121,Sandy Loam,6.5,Temperate,Drip,2.3,Organic Mix
+Pusa Basmati 1509,Loamy,6.6,Tropical,Drip,2.5,NPK 10-10-10
+Rajendra Bhagwati,Sandy Loam,7.0,Tropical,Drip,2.2,Compost
+Sambha Mahsuri,Clay Loam,6.4,Tropical,Drip,2.8,NPK 20-20-20
+Jaya,Loamy,6.3,Tropical,Drip,2.6,NPK 15-15-15
+Rasi,Loamy,6.1,Tropical,Drip,3.0,Organic Mix
+ADT 39,Sandy Loam,7.2,Arid,Drip,2.0,NPK 12-12-17
+Ponmani,Loamy,6.4,Tropical,Drip,2.6,NPK 10-26-26
+CR 1009,Loamy,6.2,Tropical,Drip,2.4,NPK 10-10-10
+Ponni,Sandy Loam,6.5,Tropical,Drip,3.2,NPK 20-20-20
+Kavuni,Loamy,6.5,Tropical,Drip,3.0,NPK 15-15-15
+Chitti Mutyalu,Well Drained,6.6,Tropical,None,2.4,NPK 10-30-10
+Jeera Samba,Well Drained,6.5,Tropical,None,2.3,Compost
+Kagga,Loamy,6.2,Temperate,Drip,2.6,NPK 12-32-16
+HMT,Sandy Loam,6.7,Tropical,Drip,2.5,NPK 10-10-10
+IR64,Loamy,6.4,Temperate,Drip,2.7,Compost
+Swarna,Loamy,6.5,Temperate,Drip,2.6,NPK 15-15-15
+BPT 5204,Loamy,6.4,Tropical,Drip,2.5,NPK 10-26-26
+MTU1010,Loamy,6.6,Tropical,Drip,2.8,NPK 20-20-20
+MTU7029,Sandy Loam,6.5,Tropical,Drip,2.7,Compost
+Pusa Basmati 1121,Loamy,6.4,Tropical,Drip,2.6,NPK 15-15-15
+Pusa Basmati 1509,Sandy Loam,6.3,Tropical,Drip,2.5,NPK 10-30-10
+Rajendra Bhagwati,Sandy Loam,6.7,Tropical,Drip,2.6,NPK 10-26-26
+Sambha Mahsuri,Loamy,6.5,Temperate,Drip,2.8,Compost
+Jaya,Loamy,6.4,Tropical,Drip,2.7,NPK 20-20-20
+Rasi,Well Drained,6.6,Tropical,Drip,2.5,NPK 15-15-15
+ADT 39,Sandy Loam,6.5,Tropical,Drip,2.6,NPK 10-10-10
+Ponmani,Loamy,6.3,Temperate,Drip,2.8,Compost
+CR 1009,Clay Loam,6.2,Tropical,Drip,3.0,NPK 12-32-16
+Ponni,Loamy,6.4,Tropical,Drip,2.7,NPK 10-26-26
+Kavuni,Loamy,6.6,Tropical,Drip,2.8,NPK 15-15-15
+Chitti Mutyalu,Loamy,6.5,Tropical,Drip,2.6,NPK 20-20-20
+Jeera Samba,Well Drained,6.4,Tropical,Drip,2.3,NPK 12-24-12
+Kagga,Loamy,6.5,Subtropical,Drip,2.7,Compost
+HMT,Loamy,6.3,Temperate,Drip,2.6,NPK 10-10-10
+IR64,Loamy,6.5,Temperate,Flood,2.8,NPK 120-60-40
+Swarna,Clay Loam,6.0,Tropical,Flood,3.5,NPK 100-50-50
+BPT 5204,Sandy Loam,6.5,Tropical,Drip,2.6,NPK 120-60-40
+MTU1010,Loamy,6.2,Temperate,Flood,2.5,NPK 60-40-30
+MTU7029,Loamy,6.4,Temperate,Flood,2.6,NPK 90-45-30
+Pusa Basmati 1121,Sandy Loam,6.8,Arid,Drip,2.0,NPK 60-40-20
+Pusa Basmati 1509,Sandy Loam,6.5,Tropical,Drip,2.3,NPK 90-45-45
+Rajendra Bhagwati,Loamy,6.0,Tropical,Drip,2.4,NPK 60-30-30
+Sambha Mahsuri,Sandy Loam,6.5,Tropical,Drip,2.2,NPK 60-40-20
+Jaya,Sandy Loam,6.4,Tropical,Drip,2.1,NPK 40-30-30
+Rasi,Loamy,6.6,Tropical,Drip,2.7,NPK 25-50-0
+ADT 39,Loamy,6.4,Temperate,Drip,2.6,NPK 20-40-0
+Ponmani,Loamy,6.5,Tropical,Drip,2.7,NPK 25-50-0
+CR 1009,Loamy,6.5,Tropical,Drip,2.6,NPK 20-40-0
+Ponni,Sandy Loam,6.3,Temperate,Drip,2.5,NPK 25-50-0
+Kavuni,Loamy,6.4,Temperate,Drip,2.5,NPK 40-60-20
+Chitti Mutyalu,Loamy,6.3,Tropical,Drip,2.8,NPK 20-60-40
+Jeera Samba,Loamy,6.4,Temperate,Drip,2.6,NPK 25-60-30
+Kagga,Loamy,6.5,Tropical,Drip,2.5,NPK 20-40-20
+HMT,Sandy Loam,6.5,Tropical,Drip,2.3,NPK 20-40-0
+IR64,Loamy,6.4,Temperate,Drip,2.7,NPK 20-40-20
+Swarna,Sandy Loam,6.6,Arid,Drip,2.2,NPK 20-40-0
+BPT 5204,Loamy,6.5,Temperate,Drip,2.6,NPK 25-50-20
+MTU1010,Loamy,6.3,Temperate,Drip,2.6,NPK 40-60-20
+MTU7029,Sandy Loam,6.2,Subtropical,Drip,2.3,NPK 60-40-20
+Pusa Basmati 1121,Loamy,6.5,Temperate,Drip,2.4,NPK 60-60-40
+Pusa Basmati 1509,Sandy Loam,6.4,Temperate,Drip,2.5,NPK 90-60-40
+Rajendra Bhagwati,Sandy Loam,6.3,Tropical,Drip,2.6,NPK 60-40-30
+Sambha Mahsuri,Sandy Loam,6.5,Tropical,Drip,2.3,NPK 50-30-30
+Jaya,Loamy,6.4,Tropical,Drip,2.4,NPK 50-40-40
+Rasi,Sandy Loam,6.3,Tropical,Drip,2.3,NPK 40-30-30
+ADT 39,Loamy,6.0,Tropical,Drip,3.5,NPK 20-10-10
+Ponmani,Clay Loam,6.2,Tropical,Drip,3.8,NPK 25-15-15
+CR 1009,Loamy,6.0,Tropical,Drip,4.2,NPK 30-20-20
+Ponni,Loamy,6.1,Tropical,Drip,3.9,NPK 25-25-15
+Kavuni,Sandy Loam,6.5,Tropical,Drip,2.5,NPK 30-20-10
+Chitti Mutyalu,Sandy,7.2,Arid,Drip,2.2,NPK 40-20-20
+Jeera Samba,Loamy,6.8,Temperate,Drip,2.6,NPK 35-25-15
+Kagga,Sandy Loam,6.6,Tropical,Drip,2.4,NPK 30-20-10
+HMT,Loamy,6.5,Subtropical,Drip,3.0,NPK 40-30-30
+IR64,Loamy,6.0,Tropical,Drip,3.7,NPK 20-10-10
+Swarna,Loamy,6.1,Tropical,Drip,3.6,NPK 25-15-15
+BPT 5204,Loamy,6.3,Tropical,Drip,3.4,NPK 30-20-20
+MTU1010,Loamy,6.7,Temperate,Drip,2.8,NPK 20-10-10
+MTU7029,Sandy Loam,6.8,Temperate,Drip,1.8,NPK 10-5-5
+Pusa Basmati 1121,Loamy,6.5,Temperate,Drip,2.5,NPK 35-25-20
+Pusa Basmati 1509,Sandy,6.6,Temperate,Drip,2.0,NPK 15-10-10
+Rajendra Bhagwati,Loamy,6.4,Subtropical,Drip,2.7,NPK 20-20-20
+Sambha Mahsuri,Sandy,6.5,Temperate,Drip,2.2,NPK 10-10-10
+Jaya,Sandy Loam,6.6,Temperate,Drip,2.3,NPK 10-10-10
+Rasi,Loamy,6.5,Temperate,Drip,2.5,NPK 15-15-15
+ADT 39,Loamy,6.3,Temperate,Drip,3.0,NPK 20-20-10
+Ponmani,Loamy,6.5,Temperate,Drip,2.4,NPK 15-10-10
+CR 1009,Loamy,6.4,Subtropical,Drip,2.6,NPK 30-20-20
+Ponni,Loamy,6.5,Temperate,Drip,2.8,NPK 40-30-30
+Kavuni,Loamy,6.4,Temperate,Drip,2.9,NPK 30-30-30
+Chitti Mutyalu,Loamy,6.3,Tropical,Drip,3.1,NPK 20-20-20
+Jeera Samba,Sandy Loam,6.5,Tropical,Drip,2.7,NPK 25-15-15
+Kagga,Loamy,6.4,Subtropical,Drip,2.9,NPK 20-10-10
+HMT,Loamy,6.6,Tropical,Drip,2.8,NPK 30-15-15
+IR64,Loamy,6.5,Temperate,Drip,2.6,NPK 15-15-15
+Swarna,Loamy,6.7,Temperate,Drip,2.7,NPK 25-20-20
+BPT 5204,Loamy,6.5,Tropical,Drip,3.5,NPK 20-10-10
+MTU1010,Loamy,6.8,Tropical,Drip,3.8,NPK 25-15-15
+MTU7029,Loamy,6.2,Tropical,Drip,3.5,NPK 20-10-10
+Pusa Basmati 1121,Loamy,6.0,Tropical,Drip,4.0,NPK 15-10-10
+Pusa Basmati 1509,Loamy,6.5,Tropical,Drip,3.7,NPK 30-20-20
+Rajendra Bhagwati,Loamy,6.5,Tropical,Drip,3.2,NPK 25-15-15
+Sambha Mahsuri,Loamy,6.3,Tropical,Drip,4.0,NPK 20-20-20
+Jaya,Loamy,6.5,Tropical,Drip,3.8,NPK 25-20-15
+Rasi,Loamy,6.5,Temperate,Drip,3.0,NPK 30-10-10
+ADT 39,Loamy,6.5,Temperate,Drip,3.2,NPK 20-10-10
+Ponmani,Loamy,6.0,Tropical,Drip,4.0,NPK 25-15-15
+CR 1009,Loamy,6.2,Subtropical,Drip,3.4,NPK 20-10-10
+Ponni,Loamy,6.5,Temperate,Drip,2.8,NPK 20-20-20
+Kavuni,Loamy,6.5,Temperate,Drip,3.0,NPK 20-15-15
+Chitti Mutyalu,Loamy,6.5,Tropical,Drip,3.1,NPK 30-20-20
+Jeera Samba,Loamy,6.0,Tropical,Drip,2.5,NPK 15-10-10
+Kagga,Loamy,6.0,Temperate,Drip,3.2,NPK 15-10-10
+HMT,Loamy,6.5,Temperate,Drip,3.5,NPK 25-20-20
+IR64,Loamy,6.0,Tropical,Drip,3.0,NPK 20-10-10
+Swarna,Loamy,6.2,Temperate,Drip,2.8,NPK 10-10-10
+BPT 5204,Loamy,6.5,Tropical,Drip,3.0,NPK 15-10-10
+MTU1010,Loamy,6.5,Temperate,Drip,3.2,NPK 20-20-20
+MTU7029,Loamy,6.5,Temperate,Drip,3.3,NPK 25-15-15
+Pusa Basmati 1121,Loamy,6.5,Tropical,Drip,3.0,NPK 15-10-10
+Pusa Basmati 1509,Loamy,6.5,Temperate,Drip,2.9,NPK 20-10-10
+Rajendra Bhagwati,Loamy,6.5,Temperate,Drip,3.1,NPK 20-15-15
+Sambha Mahsuri,Loamy,6.0,Tropical,Drip,2.7,NPK 15-10-10
+Jaya,Loamy,6.5,Temperate,Drip,3.0,NPK 25-15-15
+Rasi,Loamy,6.0,Tropical,Drip,3.4,NPK 20-10-10
+ADT 39,Loamy,6.5,Tropical,Drip,4.0,NPK 15-10-10
+Ponmani,Loamy,6.2,Temperate,Surface,4.2,NPK 20-10-10
+CR 1009,Loamy,6.0,Tropical,Drip,3.5,NPK 20-10-10
+Ponni,Loamy,6.5,Tropical,Drip,5.0,NPK 15-10-10
+Kavuni,Loamy,6.0,Temperate,Surface,5.5,NPK 10-10-10
+Chitti Mutyalu,Loamy,6.5,Temperate,Surface,4.5,NPK 20-15-10
+Jeera Samba,Loamy,6.2,Temperate,Surface,4.0,NPK 10-10-10
+Kagga,Loamy,6.0,Tropical,Drip,4.3,NPK 25-15-15
+HMT,Loamy,6.5,Temperate,Surface,3.8,NPK 15-10-10
+IR64,Loamy,6.0,Tropical,Drip,4.0,NPK 20-15-15
+Swarna,Loamy,6.2,Temperate,Surface,5.0,NPK 20-10-10
+BPT 5204,Loamy,6.5,Tropical,Surface,4.2,NPK 20-15-15
+MTU1010,Loamy,6.0,Tropical,Drip,4.5,NPK 25-20-15
+MTU7029,Loamy,6.5,Temperate,Surface,3.5,NPK 15-10-10
+Pusa Basmati 1121,Loamy,6.0,Tropical,Drip,4.0,NPK 20-10-10
+Pusa Basmati 1509,Loamy,6.0,Temperate,Surface,4.5,NPK 20-10-10
+Rajendra Bhagwati,Loamy,6.5,Temperate,Surface,4.8,NPK 15-10-10
+Sambha Mahsuri,Loamy,6.3,Temperate,Surface,4.2,NPK 15-10-10
+Jaya,Loamy,6.5,Temperate,Surface,4.0,NPK 10-10-10
+Rasi,Loamy,6.2,Tropical,Drip,4.5,NPK 20-15-15
+ADT 39,Loamy,6.0,Tropical,Drip,3.8,NPK 20-10-10
+Ponmani,Loamy,6.5,Temperate,Surface,3.7,NPK 10-10-10
+CR 1009,Loamy,6.2,Temperate,Surface,4.0,NPK 15-10-10
+Ponni,Loamy,6.5,Tropical,Surface,5.0,NPK 15-15-15
+Kavuni,Loamy,6.0,Tropical,Drip,4.3,NPK 20-10-10
+Chitti Mutyalu,Loamy,6.2,Temperate,Surface,3.9,NPK 15-10-10
+Jeera Samba,Loamy,6.0,Tropical,Drip,4.1,NPK 10-10-10
+Kagga,Loamy,6.5,Temperate,Surface,4.0,NPK 20-10-10
+HMT,Sandy Loam,6.5,Arid,Drip,2.0,NPK 10-40-10
+IR64,Sandy,6.2,Subtropical,Drip,1.8,NPK 20-20-20
+Swarna,Sandy,6.0,Arid,Drip,1.5,NPK 10-10-10
+BPT 5204,Sandy Loam,6.3,Temperate,Drip,1.7,NPK 5-10-10
+MTU1010,Sandy,6.2,Arid,Drip,1.6,NPK 10-15-10
+MTU7029,Sandy Loam,6.5,Arid,Drip,2.2,NPK 5-10-10
+Pusa Basmati 1121,Sandy,6.0,Subtropical,Drip,1.9,NPK 15-15-15
+Pusa Basmati 1509,Sandy Loam,6.1,Subtropical,Drip,1.8,NPK 10-20-10
+Rajendra Bhagwati,Sandy,6.0,Temperate,Drip,1.5,NPK 10-10-10
+Sambha Mahsuri,Sandy,6.3,Arid,Drip,1.6,NPK 10-20-10
+Jaya,Sandy Loam,6.4,Mediterranean,Drip,1.7,NPK 10-10-10
+Rasi,Sandy,6.2,Arid,Drip,1.4,NPK 10-10-10
+ADT 39,Sandy,6.0,Arid,Drip,1.5,NPK 5-5-5
+Ponmani,Sandy,6.5,Arid,Drip,1.3,NPK 2-7-7
+CR 1009,Sandy Loam,6.1,Subtropical,Drip,1.8,NPK 10-15-10
+Ponni,Sandy,6.3,Arid,Drip,1.5,NPK 5-10-10
+Kavuni,Sandy Loam,6.4,Tropical,Drip,1.7,NPK 10-10-10
+Chitti Mutyalu,Sandy,6.2,Tropical,Drip,1.9,NPK 15-15-15
+Jeera Samba,Sandy,6.1,Arid,Drip,1.6,NPK 10-20-10
+Kagga,Sandy,6.2,Arid,Drip,1.5,NPK 5-5-5
+HMT,Sandy Loam,6.3,Subtropical,Drip,1.7,NPK 10-10-10
+IR64,Sandy,6.5,Arid,Drip,2.0,NPK 5-10-10
+Swarna,Sandy,6.2,Arid,Drip,1.4,NPK 5-5-5
+BPT 5204,Sandy,6.0,Arid,Drip,1.3,NPK 10-10-10
+MTU1010,Sandy,6.2,Arid,Drip,1.4,NPK 5-5-5
+MTU7029,Sandy,6.3,Arid,Drip,1.4,NPK 5-5-10
+Pusa Basmati 1121,Sandy,6.2,Arid,Drip,1.3,NPK 10-15-10
+Pusa Basmati 1509,Sandy,6.0,Arid,Drip,1.3,NPK 10-10-10
+Rajendra Bhagwati,Sandy,6.1,Arid,Drip,1.4,NPK 5-5-10
+Sambha Mahsuri,Loamy,6.0,Tropical,Submerged,10.0,NPK 20-10-10
+Jaya,Loamy,6.5,Tropical,Submerged,12.0,NPK 25-15-15
+Rasi,Loamy,6.0,Tropical,Submerged,15.0,NPK 30-10-10
+ADT 39,Loamy,6.5,Tropical,Submerged,8.0,NPK 10-5-5
+Ponmani,Loamy,6.2,Tropical,Submerged,20.0,NPK 15-10-10
+CR 1009,Loamy,6.0,Tropical,Submerged,18.0,NPK 20-10-10
+Ponni,Loamy,6.3,Tropical,Submerged,25.0,NPK 25-15-15
+Kavuni,Loamy,6.5,Tropical,Submerged,12.0,NPK 20-10-10
+Chitti Mutyalu,Loamy,6.0,Tropical,Submerged,15.0,NPK 10-10-10
+Jeera Samba,Loamy,6.5,Tropical,Submerged,10.0,NPK 20-15-15
+Kagga,Loamy,6.2,Tropical,Submerged,8.0,NPK 15-10-10
+HMT,Loamy,6.5,Tropical,Submerged,12.0,NPK 20-10-10
+IR64,Loamy,6.4,Tropical,Submerged,18.0,NPK 25-15-15
+Swarna,Loamy,6.2,Tropical,Submerged,10.0,NPK 10-10-10
+BPT 5204,Loamy,6.0,Tropical,Submerged,15.0,NPK 15-10-10
+MTU1010,Loamy,6.5,Tropical,Submerged,12.0,NPK 20-15-15
+MTU7029,Loamy,6.0,Tropical,Submerged,10.0,NPK 25-10-10
+Pusa Basmati 1121,Loamy,6.5,Tropical,Submerged,18.0,NPK 20-10-10
+Pusa Basmati 1509,Loamy,6.0,Tropical,Submerged,14.0,NPK 15-10-10
+Rajendra Bhagwati,Loamy,6.2,Tropical,Submerged,20.0,NPK 25-10-10
+Sambha Mahsuri,Loamy,6.0,Tropical,Submerged,16.0,NPK 30-15-15
+Jaya,Loamy,6.3,Tropical,Submerged,12.0,NPK 20-10-10
+Rasi,Loamy,6.4,Tropical,Submerged,15.0,NPK 15-10-10
+ADT 39,Loamy,6.5,Tropical,Submerged,18.0,NPK 25-15-15
+Ponmani,Loamy,6.0,Tropical,Submerged,14.0,NPK 20-15-15
+CR 1009,Loamy,6.5,Tropical,Submerged,20.0,NPK 30-10-10
+Ponni,Loamy,6.3,Tropical,Submerged,10.0,NPK 25-10-10
+Kavuni,Loamy,6.0,Tropical,Drip,20.0,NPK 10-10-10
+Chitti Mutyalu,Loamy,6.5,Tropical,Drip,18.0,NPK 15-10-10
+Jeera Samba,Loamy,6.2,Tropical,Drip,25.0,NPK 20-15-15
+Kagga,Loamy,6.0,Tropical,Drip,22.0,NPK 10-15-15
+HMT,Loamy,6.0,Subtropical,Drip,20.0,NPK 15-10-10
+IR64,Loamy,6.5,Temperate,Drip,18.0,NPK 20-15-15
+Swarna,Loamy,6.0,Temperate,Drip,23.0,NPK 10-10-10
+BPT 5204,Loamy,6.5,Tropical,Drip,20.0,NPK 25-15-15
+MTU1010,Loamy,6.3,Tropical,Drip,25.0,NPK 20-10-10
+MTU7029,Loamy,6.5,Tropical,Drip,20.0,NPK 15-10-10
+Pusa Basmati 1121,Loamy,6.2,Tropical,Drip,18.0,NPK 10-15-15
+Pusa Basmati 1509,Loamy,6.3,Tropical,Drip,19.0,NPK 20-15-15
+Rajendra Bhagwati,Loamy,6.0,Tropical,Drip,22.0,NPK 20-10-10
+Sambha Mahsuri,Loamy,6.5,Tropical,Drip,18.0,NPK 15-10-10
+Jaya,Loamy,6.0,Temperate,Drip,17.0,NPK 10-10-10
+Rasi,Loamy,6.5,Temperate,Drip,20.0,NPK 15-10-10
+ADT 39,Loamy,6.0,Tropical,Drip,20.0,NPK 25-20-15
+Ponmani,Loamy,6.3,Tropical,Drip,25.0,NPK 20-15-15
+CR 1009,Loamy,6.2,Tropical,Drip,18.0,NPK 10-15-15
+Ponni,Loamy,6.0,Tropical,Drip,19.0,NPK 15-10-10
+Kavuni,Loamy,6.5,Temperate,Drip,20.0,NPK 20-10-10
+Chitti Mutyalu,Loamy,6.3,Tropical,Drip,17.0,NPK 15-10-10
+Jeera Samba,Loamy,6.0,Tropical,Drip,22.0,NPK 10-15-15
+Kagga,Loamy,6.5,Temperate,Drip,21.0,NPK 20-10-10
+HMT,Loamy,6.2,Temperate,Drip,20.0,NPK 15-10-10
+IR64,Loamy,6.5,Tropical,Drip,20.0,NPK 10-15-15
+Swarna,Well-drained Loamy,6.5,Subtropical,Drip,2.5,NPK 10-10-10
+BPT 5204,Loamy,6.2,Tropical,Drip,3.5,NPK 20-10-10
+MTU1010,Loamy,6.5,Temperate,Drip,2.8,NPK 15-10-10
+MTU7029,Sandy Loam,6.0,Tropical,Drip,2.0,NPK 10-10-10
+Pusa Basmati 1121,Loamy,6.3,Tropical,Drip,3.0,NPK 20-10-10
+Pusa Basmati 1509,Loamy,6.1,Tropical,Drip,3.2,NPK 15-10-10
+Rajendra Bhagwati,Loamy,6.5,Tropical,Drip,3.0,NPK 20-20-20
+Sambha Mahsuri,Loamy,6.3,Tropical,Drip,3.5,NPK 20-10-10
+Jaya,Loamy,6.4,Tropical,Drip,3.2,NPK 10-10-10
+Rasi,Well-drained Loamy,6.3,Tropical,Drip,2.7,NPK 10-15-10
+ADT 39,Sandy Loam,6.5,Arid,Drip,2.0,NPK 10-40-10
+Ponmani,Loamy,6.5,Tropical,Drip,3.3,NPK 20-20-20
+CR 1009,Loamy,6.2,Tropical,Drip,3.4,NPK 20-10-10
+Ponni,Loamy,6.0,Tropical,Drip,3.5,NPK 15-10-15
+Kavuni,Loamy,6.5,Tropical,Drip,3.0,NPK 15-5-10
+Chitti Mutyalu,Loamy,6.4,Tropical,Drip,3.5,NPK 20-10-10
+Jeera Samba,Loamy,6.0,Tropical,Drip,3.2,NPK 15-10-10
+Kagga,Loamy,6.3,Tropical,Drip,3.1,NPK 20-10-10
+HMT,Loamy,6.5,Tropical,Drip,3.5,NPK 20-10-10
+IR64,Loamy,6.2,Temperate,Drip,2.9,NPK 10-10-10
+Swarna,Loamy,6.0,Tropical,Drip,3.2,NPK 15-10-10
+BPT 5204,Loamy,6.4,Tropical,Drip,2.8,NPK 10-10-10
+MTU1010,Sandy Loam,6.1,Subtropical,Drip,2.5,NPK 10-10-10
+MTU7029,Loamy,6.3,Subtropical,Drip,3.1,NPK 15-10-15
+Pusa Basmati 1121,Loamy,6.2,Tropical,Drip,2.9,NPK 20-20-20
+Pusa Basmati 1509,Loamy,6.1,Tropical,Drip,3.0,NPK 10-10-10
+Rajendra Bhagwati,Loamy,6.5,Tropical,Drip,3.3,NPK 15-10-10
+Sambha Mahsuri,Loamy,6.2,Tropical,Drip,3.0,NPK 20-10-10
+Jaya,Sandy Loam,6.2,Subtropical,Drip,2.0,NPK 20-20-20
