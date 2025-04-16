@@ -7,8 +7,8 @@ app = Flask(__name__)
 
 CORS(app, origins="*")  
 
-model = joblib.load(r"C:\Customer Projects\plant_fertilizer_detection\model\fertilizer_decision_tree_model.pkl")
-label_encoders = joblib.load(r"C:\Customer Projects\plant_fertilizer_detection\model\label_encoders.pkl")
+model = joblib.load("./model/fertilizer_decision_tree_model.pkl")
+label_encoders = joblib.load("./model/label_encoders.pkl")
 
 @app.route('/predict', methods=['POST'])
 def predict():
