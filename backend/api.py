@@ -10,6 +10,11 @@ CORS(app, origins="*")
 model = joblib.load("./model/fertilizer_decision_tree_model.pkl")
 label_encoders = joblib.load("./model/label_encoders.pkl")
 
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok'}), 200
+
+
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
