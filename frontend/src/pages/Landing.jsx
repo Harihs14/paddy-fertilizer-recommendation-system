@@ -113,6 +113,12 @@ const Landing = () => {
                   >
                     Get Started
                   </button>
+                  <a 
+                    href="#Login"
+                    className="px-8 py-4 rounded-lg border border-gray-300 text-gray-700 font-medium text-lg hover:bg-gray-50 flex items-center justify-center transition-all"
+                  >
+                    Login
+                  </a>
                 </div>
                 
                 <div className="mt-10 flex items-center">
