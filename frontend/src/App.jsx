@@ -105,7 +105,7 @@ const App = () => {
     "Irrigation Type": "",
     "Organic Matter %": ""
   });
-  const [temperature, setTemperature] = useState('24.6');
+  const [temperature, setTemperature] = useState('');
   const [humidity, setHumidity] = useState('');
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
